@@ -1,0 +1,14 @@
+.App {
+  font-family: sans-serif;
+  text-align: left;
+  margin-top: 100px;
+}
+.TreeNode{
+  font-size: large;
+}
+.CheckBox{
+  display: inline-block;
+}
+.iconContainer.TreeNodeToolBar{
+  padding-left: 20px;
+}
